@@ -1,4 +1,4 @@
-# Iure Castro Andrade
+# Iure Castro
 📍 London | Full Stack Web Developer
 
 ## 🚀 Sobre Mim
