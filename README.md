@@ -48,22 +48,6 @@ Desenvolvedor Full Stack Web Developer com 10+ anos de experiência em desenvolv
 
 ---
 
-## 🌟 Projetos Destacados
-
-### 🏠 [Mortgage Calculator](https://iurecastro.github.io/mortgage-calculator/)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui)  
-Calculadora de hipotecas com visualização interativa de gráficos (Chart.js) e tabela de amortização.
-
-### 💱 [Currency Converter](https://iurecastro.github.io/currency-converter/)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) ![API](https://img.shields.io/badge/-API-FF6C37?style=flat&logo=fastapi)  
-Conversor de moedas com taxas em tempo real via API.
-
-### 🏍️ [Global Motorcycles Ltd](https://global-motorcycles-ltd.uk/)
-![Magento](https://img.shields.io/badge/-Magento-EE672F?style=flat&logo=magento) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
-Plataforma e-commerce com integração de Google Analytics e otimização de performance.
-
----
-
 ## 📫 Contato
 - 🌐 Portfolio: [https://iure.uk](https://iure.uk)
 - 💼 LinkedIn: [iurecastro](https://linkedin.com/in/iurecastro)
