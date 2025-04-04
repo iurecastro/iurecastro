@@ -5,8 +5,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iurecastro&style=flat-square)
 
-
-
 ---
 
 ## 👋 About Me
@@ -63,18 +61,42 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=seo&logoColor=white)
 
-### 🎨 **Design & Acessibilidade**
+### 🎨 **Design & Accessibility**
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![Web Accessibility](https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white)
 
 ---
 
-## 📫 Contato
+## 🏆 Previous Projects
+
+### Indra Company
+**Software Engineer - Goiania, Brazil**
+
+During my time at Indra, I worked on developing various web and mobile solutions for the State of Goiás Government. Some of the projects I contributed to:
+
+- **[Transparency Portal of the State of Goiás](https://transparencia.go.gov.br/)**: Development of the state's public financial transparency portal.
+- **[Covenants Portal of the State of Goiás](http://www.portal.convenios.go.gov.br/portaldeconvenios/)**: System for managing and monitoring agreements and contracts.
+- **[Seminar on Ethics and Integrity](#)**: Web/Mobile platform for transparency and ethics seminars.
+  
+---
+
+### Interagi Tecnologia
+**Web Developer - Goiania, Brazil**
+
+I worked with Joomla to build and maintain various portals and intranets for important clients:
+
+- **[CNMP Portal](http://www.cnmp.mp.br)**: Web and mobile version of the portal.
+- **[CNMP Intranet](http://www.cnmp.mp.br/intranet/component/users/?view=login)**: Internal communication platform for CNMP.
+- **[SESC Goiás](http://www.sescgo.com.br)**: Platform for services and information for SESC Goiás.
+
+---
+
+## 📫 Contact
 - 🌐 Portfolio: [https://iure.uk](https://iure.uk)
 - 💼 LinkedIn: [iurecastro](https://linkedin.com/in/iurecastro)
 - 🔗 GitHub: [iurecastro](https://github.com/iurecastro)
 
 ---
 
-⭐️ De [iurecastro](https://github.com/iurecastro)
+⭐️ By [iurecastro](https://github.com/iurecastro)
