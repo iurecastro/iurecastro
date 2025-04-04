@@ -77,12 +77,12 @@ During my time at Indra, I worked on developing various web and mobile solutions
 
 - **[Transparency Portal of the State of Goiás](https://transparencia.go.gov.br/)**: Web/Mobile development of the state’s public financial transparency portal.
 - **[Covenants Portal of the State of Goiás](http://www.portal.convenios.go.gov.br/portaldeconvenios/)**: Web/Mobile development for managing and monitoring agreements and contracts.
-- **[General Controller's Office of the State of Goiás](#)**: Web/Mobile development for the State's General Controller's Office.
-- **[Seminar on Ethics and Integrity](#)**: Web/Mobile platform for transparency and ethics seminars.
-- **[Ombudsman Management Report](#)**: Web development for the Ombudsman’s management report platform.
-- **[Coffee with Ombudsmen of the State of Goiás](#)**: Web/Mobile development for a platform dedicated to the "Coffee with Ombudsmen" initiative.
-- **[1st Goian Seminar of Ombudsmen of the State of Goiás](#)**: Web/Mobile development for the 1st seminar dedicated to Ombudsmen.
-- **[Intranet Updates for the General Controller of the State of Goiás](#)**: Regular updates and improvements to the intranet of the General Controller’s office.
+- **[General Controller's Office of the State of Goiás](https://goias.gov.br/controladoria/)**: Web/Mobile development for the State's General Controller's Office.
+- **Seminar on Ethics and Integrity**: Web/Mobile platform for transparency and ethics seminars.
+- **[Ombudsman Management Report](http://www.cge.go.gov.br/ouvidoria/relatorioGeral.php)**: Web development for the Ombudsman’s management report platform.
+- **Coffee with Ombudsmen of the State of Goiás**: Web/Mobile development for a platform dedicated to the "Coffee with Ombudsmen" initiative.
+- **1st Goian Seminar of Ombudsmen of the State of Goiás**: Web/Mobile development for the 1st seminar dedicated to Ombudsmen.
+- **Intranet Updates for the General Controller of the State of Goiás**: Regular updates and improvements to the intranet of the General Controller’s office.
   
 ---
 
