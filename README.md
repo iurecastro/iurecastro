@@ -1,11 +1,11 @@
-<!-- SEO: full stack web developer in London, PHP, javascript, html, css, Joomla, WordPress, Magento, React -->
+<!-- SEO: Full Stack Web Developer in London, PHP Developer, JavaScript Developer, HTML5, CSS3, Joomla Expert, WordPress Specialist, Magento Developer, React.js, Freelance Web Developer UK, Frontend Backend Developer, IT, London IT -->
 
 # Iure Castro
 📍 London | Full Stack Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iurecastro&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iurecastro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-iure.uk-black?style=flat-square&logo=google-chrome)](https://iure.uk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iure.uk-black?logo=google-chrome)](https://iure.uk)
 
 ---
 
