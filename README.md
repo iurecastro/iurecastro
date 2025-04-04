@@ -1,8 +1,34 @@
 # Iure Castro
 📍 London | Full Stack Web Developer
 
-## 🚀 Sobre Mim
-Desenvolvedor Full Stack Web Developer com 10+ anos de experiência em desenvolvimento web, especializado em **e-commerce (Magento 2, WooCommerce)** e **otimização de performance** (Google PageSpeed 100/100). Apaixonado por criar soluções acessíveis, rápidas e escaláveis.
+![Profile Views](https://komarev.com/ghpvc/?username=iurecastro&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iurecastro&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurecastro&layout=compact&theme=tokyonight)
+
+---
+
+## 👋 About Me
+Hi there! I'm **Iure Castro**, a full stack web developer with solid experience in both web and mobile development, along with a strong academic background in **Project Management**. I'm currently based in **London**, working as a freelancer and building complete web solutions — from responsive UI to deployment and performance optimization.
+
+💻 I work confidently with technologies like **PHP, JavaScript, HTML5, CSS3, Joomla, WordPress, Magento 2**, and basic **React.js**. I enjoy creating applications that focus on **performance, accessibility, SEO**, and great **user experience**.
+
+🌐 Some highlights from my portfolio:
+
+- **[iure.uk](https://iure.uk)**: My personal website, scoring **100% across all metrics** on Google PageSpeed Insights — [see results](https://pagespeed.web.dev/analysis/https-iure-uk/g2whjp1mdu?form_factor=desktop).
+- **Global Motorcycles**: A company website built with **WordPress + WooCommerce**, designed for both aesthetics and conversion.
+- **Mortgage Calculator & Currency Converter**: React.js interactive tools hosted on **GitHub Pages**. Simple, fast, and responsive.
+
+📂 I actively maintain projects on [**GitHub**](https://github.com/iurecastro?tab=repositories), including:
+
+- A mobile-friendly **Mortgage Calculator** using React, Material UI, and Chart.js
+- A **Currency Converter** app with Axios and real-time exchange rates
+- Custom websites using **Bootstrap, PHP**, and **vanilla JS**
+
+📊 I'm also experienced with **Google Analytics**, **SEO best practices**, and tools like **GitHub, Vercel, Cloudflare, cPanel**, and various hosting platforms.
+
+🎓 I hold a degree in **Information Technology Management** and an **MBA in Project Management**.
+
+🚀 I’m always looking to grow as a developer and to collaborate on meaningful projects. Currently open to **freelance roles, remote jobs, or full-time opportunities in London**.
 
 ---
 
