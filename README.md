@@ -16,10 +16,22 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 
 🌐 Some highlights from my portfolio:
 
-- **[iure.uk](https://iure.uk)**: My personal website, scoring **100% across all metrics** on Google PageSpeed Insights — [see results](https://pagespeed.web.dev/analysis/https-iure-uk/g2whjp1mdu?form_factor=desktop).
-- **[Global Motorcycles](https://global-motorcycles-ltd.uk/)**: A company website designed for both aesthetics and conversion.
-- **Mortgage Calculator & Currency Converter**: React.js interactive tools hosted on **GitHub Pages**. Simple, fast, and responsive.
+- **[iure.uk](https://iure.uk)**  
+  My personal website, scoring 100% across all metrics on Google PageSpeed Insights — see results.
 
+- **[Global Motorcycles – Institutional Website](https://global-motorcycles-ltd.uk)**  
+  A responsive company site focused on branding and user experience.
+
+- **[Global Motorcycles – Online Store](https://global-motorcycles-ltd.uk/store)**  
+  A custom WordPress + WooCommerce e-commerce platform built for usability and conversion.
+
+- **Mortgage Calculator & Currency Converter**  
+  React.js interactive tools hosted on GitHub Pages. Simple, fast, and responsive.
+
+- **[TechPlus](https://iurestore.infinityfreeapp.com/)**  
+  A minimalist front-end e-commerce project featuring responsive design, product catalog UI, and modern layout, built with HTML, CSS, and JavaScript.
+
+  
 📊 I'm also experienced with **Google Analytics**, **SEO best practices**, and tools like **GitHub, Vercel, Cloudflare, cPanel**, and various hosting platforms.
 
 🎓 I hold a degree in **Information Technology Management** and an **MBA in Project Management**.
