@@ -1,9 +1,15 @@
+<!-- SEO: full stack developer in London, PHP, WordPress, Magento, React -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iurecastro/iurecastro/main/assets/banner.png" alt="Iure Castro Banner"/>
+</p>
+
 # Iure Castro
 📍 London | Full Stack Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iurecastro&style=flat-square)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iurecastro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurecastro&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurecastro&layout=compact&theme=tokyonight&exclude_repo=teste-c)
 
 ---
 
@@ -15,14 +21,8 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 🌐 Some highlights from my portfolio:
 
 - **[iure.uk](https://iure.uk)**: My personal website, scoring **100% across all metrics** on Google PageSpeed Insights — [see results](https://pagespeed.web.dev/analysis/https-iure-uk/g2whjp1mdu?form_factor=desktop).
-- **Global Motorcycles**: A company website built with **WordPress + WooCommerce**, designed for both aesthetics and conversion.
+- **[Global Motorcycles](https://global-motorcycles-ltd.uk/)**: A company website designed for both aesthetics and conversion.
 - **Mortgage Calculator & Currency Converter**: React.js interactive tools hosted on **GitHub Pages**. Simple, fast, and responsive.
-
-📂 I actively maintain projects on [**GitHub**](https://github.com/iurecastro?tab=repositories), including:
-
-- A mobile-friendly **Mortgage Calculator** using React, Material UI, and Chart.js
-- A **Currency Converter** app with Axios and real-time exchange rates
-- Custom websites using **Bootstrap, PHP**, and **vanilla JS**
 
 📊 I'm also experienced with **Google Analytics**, **SEO best practices**, and tools like **GitHub, Vercel, Cloudflare, cPanel**, and various hosting platforms.
 
