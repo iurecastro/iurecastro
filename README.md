@@ -4,6 +4,8 @@
 📍 London | Full Stack Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iurecastro&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iurecastro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iure.uk-black?style=flat-square&logo=google-chrome)](https://iure.uk)
 
 ---
 
