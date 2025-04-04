@@ -75,9 +75,14 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 
 During my time at Indra, I worked on developing various web and mobile solutions for the State of Goiás Government. Some of the projects I contributed to:
 
-- **[Transparency Portal of the State of Goiás](https://transparencia.go.gov.br/)**: Development of the state's public financial transparency portal.
-- **[Covenants Portal of the State of Goiás](http://www.portal.convenios.go.gov.br/portaldeconvenios/)**: System for managing and monitoring agreements and contracts.
+- **[Transparency Portal of the State of Goiás](https://transparencia.go.gov.br/)**: Web/Mobile development of the state’s public financial transparency portal.
+- **[Covenants Portal of the State of Goiás](http://www.portal.convenios.go.gov.br/portaldeconvenios/)**: Web/Mobile development for managing and monitoring agreements and contracts.
+- **[General Controller's Office of the State of Goiás](#)**: Web/Mobile development for the State's General Controller's Office.
 - **[Seminar on Ethics and Integrity](#)**: Web/Mobile platform for transparency and ethics seminars.
+- **[Ombudsman Management Report](#)**: Web development for the Ombudsman’s management report platform.
+- **[Coffee with Ombudsmen of the State of Goiás](#)**: Web/Mobile development for a platform dedicated to the "Coffee with Ombudsmen" initiative.
+- **[1st Goian Seminar of Ombudsmen of the State of Goiás](#)**: Web/Mobile development for the 1st seminar dedicated to Ombudsmen.
+- **[Intranet Updates for the General Controller of the State of Goiás](#)**: Regular updates and improvements to the intranet of the General Controller’s office.
   
 ---
 
@@ -86,9 +91,17 @@ During my time at Indra, I worked on developing various web and mobile solutions
 
 I worked with Joomla to build and maintain various portals and intranets for important clients:
 
-- **[CNMP Portal](http://www.cnmp.mp.br)**: Web and mobile version of the portal.
+- **[CNMP Portal](http://www.cnmp.mp.br/)**: Web and mobile version of the portal.
 - **[CNMP Intranet](http://www.cnmp.mp.br/intranet/component/users/?view=login)**: Internal communication platform for CNMP.
+- **[Hotsite for CNMP](http://www.cnmp.mp.br/premio/)**: A hotsite developed for CNMP.
+- **[CRP 09 Portal](http://www.crp09.org.br/portal/)**: Portal for the CRP 09 organization.
+- **[Codeba Portal](http://www.codeba.com.br/)**: Portal for Codeba, a Brazilian company in the logistics sector.
+- **[Codeba Intranet](http://www.codeba.com.br/)**: Internal communication platform for Codeba.
 - **[SESC Goiás](http://www.sescgo.com.br)**: Platform for services and information for SESC Goiás.
+- **[CENESC](http://sesccidadania.com.br)**: Website for CENESC, a social initiative.
+- **[Contime](#)**: Portal for Contime Assessoria, a consulting firm.
+- **[RPM Sports](#)**: Website for RPM Sports, a sports and recreation company.
+- **[Embrapa Prototype](https://www.embrapa.br/)**: Prototype for the Embrapa website (Brazilian Agricultural Research Corporation).
 
 ---
 
