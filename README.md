@@ -1,15 +1,11 @@
-<!-- SEO: full stack developer in London, PHP, WordPress, Magento, React -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iurecastro/iurecastro/main/assets/banner.png" alt="Iure Castro Banner"/>
-</p>
+<!-- SEO: full stack web developer in London, PHP, javascript, html, css, Joomla, WordPress, Magento, React -->
 
 # Iure Castro
 📍 London | Full Stack Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iurecastro&style=flat-square)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iurecastro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurecastro&layout=compact&theme=tokyonight&exclude_repo=teste-c)
+
+
 
 ---
 
