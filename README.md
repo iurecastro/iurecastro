@@ -96,13 +96,12 @@ I worked with Joomla to build and maintain various portals and intranets for imp
 - **[CNMP Portal](http://www.cnmp.mp.br/)**: Web and mobile version of the portal.
 - **[CNMP Intranet](http://www.cnmp.mp.br/intranet/component/users/?view=login)**: Internal communication platform for CNMP.
 - **[Hotsite for CNMP](http://www.cnmp.mp.br/premio/)**: A hotsite developed for CNMP.
-- **[CRP 09 Portal](http://www.crp09.org.br/portal/)**: Portal for the CRP 09 organization.
 - **[Codeba Portal](http://www.codeba.com.br/)**: Portal for Codeba, a Brazilian company in the logistics sector.
 - **[Codeba Intranet](http://www.codeba.com.br/)**: Internal communication platform for Codeba.
 - **[SESC Goiás](http://www.sescgo.com.br)**: Platform for services and information for SESC Goiás.
-- **[CENESC](http://sesccidadania.com.br)**: Website for CENESC, a social initiative.
-- **[Contime](#)**: Portal for Contime Assessoria, a consulting firm.
-- **[RPM Sports](#)**: Website for RPM Sports, a sports and recreation company.
+- **CENESC**: Website for CENESC, a social initiative.
+- **Contime**: Portal for Contime Assessoria, a consulting firm.
+- **RPM Sports**: Website for RPM Sports, a sports and recreation company.
 - **[Embrapa Prototype](https://www.embrapa.br/)**: Prototype for the Embrapa website (Brazilian Agricultural Research Corporation).
 
 ---
