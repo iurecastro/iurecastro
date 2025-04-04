@@ -17,7 +17,7 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 🌐 Some highlights from my portfolio:
 
 - **[iure.uk](https://iure.uk)**  
-  My personal website, scoring 100% across all metrics on Google PageSpeed Insights — see results.
+  My personal website, scoring 100% across all metrics on Google PageSpeed Insights — [see results](https://pagespeed.web.dev/analysis/https-iure-uk/g2whjp1mdu?form_factor=desktop).
 
 - **[Global Motorcycles – Institutional Website](https://global-motorcycles-ltd.uk)**  
   A responsive company site focused on branding and user experience.
@@ -29,7 +29,7 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
   React.js interactive tools hosted on GitHub Pages. Simple, fast, and responsive.
 
 - **[TechPlus](https://iurestore.infinityfreeapp.com/)**  
-  A minimalist front-end e-commerce project featuring responsive design, product catalog UI, and modern layout, built with HTML, CSS, and JavaScript.
+  A minimalist front-end e-commerce project featuring responsive design, product catalog UI, and modern layout, built with WordPress + WooCommerce.
 
   
 📊 I'm also experienced with **Google Analytics**, **SEO best practices**, and tools like **GitHub, Vercel, Cloudflare, cPanel**, and various hosting platforms.
