@@ -17,7 +17,7 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 🌐 Some highlights from my portfolio:
 
 - **[iure.uk](https://iure.uk)**  
-  My personal website, scoring 100% across all metrics on Google PageSpeed Insights — [see results](https://pagespeed.web.dev/analysis/https-iure-uk/g2whjp1mdu?form_factor=desktop).
+  My personal website, scoring 100% across all metrics on Google PageSpeed Insights
 
 - **[Global Motorcycles – Institutional Website](https://global-motorcycles-ltd.uk)**  
   A responsive company site focused on branding and user experience.
