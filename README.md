@@ -19,9 +19,6 @@ Hi there! I'm **Iure Castro**, a full stack web developer with solid experience 
 - **[iure.uk](https://iure.uk)**  
   My personal website, scoring 100% across all metrics on Google PageSpeed Insights
 
-- **[Global Motorcycles – Institutional Website](https://global-motorcycles-ltd.uk)**  
-  A responsive company site focused on branding and user experience.
-
 - **[Global Motorcycles – Online Store](https://global-motorcycles-ltd.uk/store)**  
   A custom WordPress + WooCommerce e-commerce platform built for usability and conversion.
 
